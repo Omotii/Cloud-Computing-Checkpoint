@@ -1,14 +1,14 @@
 * {
-    padding: 0;
+    padding: 0; 
     margin: 0
 }
 
 header {
-    width: 70vw;
+    width: 75vw;
     padding: 1rem;
     border-radius: 10px;
     text-align: center;
-    background-color: #b6a085;
+    background-color: #e9d6c1;
     position: relative;
     margin: 2rem auto;
 }
@@ -18,15 +18,15 @@ header {
     height: 150px;
     overflow: hidden;
     border-radius: 100%;
-    border: 10px solid #967c5d;
+    border: 10px solid #f8e8d6;
     position: absolute;
     left: 80px;
-    top: -30px;
+    top: -20px;
 }
 
 .logo-img-container img {
     width: 100%;
-    margin-top: -2.2rem;
+    margin-top: -2rem;
 }
 
 header h1 {
@@ -34,26 +34,27 @@ header h1 {
     font-size: 2.5rem;
     letter-spacing: 0.1rem;
     text-transform: uppercase;
+    margin: 0;
 }
 
 p {
     color: #504232;
     letter-spacing: 0.1rem;
     font-size: 1.2rem;
+    margin: 0;
 }
 
 main {
     height: 65vh;
-    width: 70vw;
-    background-color: #b6a085;
+    width: 75vw;
+    background-color: #e9d6c1;
     margin: 1rem auto;
-    padding: 1rem;
+    padding: 0.5rem;
     text-align: center;
     border-radius: 10px;
 }
 
 iframe {
-    margin-top: 1rem;
     border-radius: 5px;
-    border: 3px solid rgb(202, 187, 153);
+    border: 3px solid #f8e8d6;
 }

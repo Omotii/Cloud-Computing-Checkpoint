@@ -1,6 +1,10 @@
 import './styles.css'
 import Map from './map'
 
+//importing the Map component from ./map
+//the header and title are added for styling
+
+
 const Body = () => {
     return (
         <>
